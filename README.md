@@ -11,7 +11,11 @@ LLMs work by using a process called supervised learning. In supervised learning,
 
 ## **What are the different types of LLMs?**
 
-There are two main types of LLMs: statistical LLMs and neural network LLMs. Statistical LLMs are trained using a statistical model, while neural network LLMs are trained using a neural network. Neural network LLMs are more powerful than statistical LLMs, but they are also more complex.
+There are two main types of LLMs: 
+* statistical LLMs and 
+* neural network LLMs. 
+
+Statistical LLMs are trained using a statistical model, while neural network LLMs are trained using a neural network. Neural network LLMs are more powerful than statistical LLMs, but they are also more complex.
 
 ## **How can I use LLMs?**
 
