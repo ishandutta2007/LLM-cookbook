@@ -1,8 +1,6 @@
 # LLM-cookbook
 
 
-Sure, I can answer all of these questions one by one.
-
 ## **What is an LLM?**
 
 An LLM, or Large Language Model, is a type of artificial intelligence that is trained on a massive dataset of text. LLMs can be used to generate text, translate languages, write different kinds of creative content, and answer questions.
